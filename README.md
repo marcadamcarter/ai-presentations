@@ -17,9 +17,9 @@ The presentations are organized into the following categories:
 - **Basics**
   - [Leveraging AI for Leadership Success](basics/leveraging-ai-for-leadership-success/README.md) - How AI can enhance leadership effectiveness.
 - **Tools**
-  - [AI Frameworks](tools/ai-frameworks/README.md) - Overview of popular AI development frameworks.
+  <!-- - [AI Frameworks](tools/ai-frameworks/README.md) - Overview of popular AI development frameworks. -->
 - **Ethics**
-  - [AI Bias](ethics/ai-bias/README.md) - Understanding and mitigating bias in AI systems.
+  <!-- - [AI Bias](ethics/ai-bias/README.md) - Understanding and mitigating bias in AI systems. -->
 
 More categories and presentations will be added over time. Check back for updates!  
 
