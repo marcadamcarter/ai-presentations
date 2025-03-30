@@ -1,6 +1,10 @@
 # Leveraging AI for Leadership Success
 
-This presentation explores how artificial intelligence can be harnessed to enhance leadership effectiveness. It covers key AI concepts, practical applications in leadership scenarios, and strategies for integrating AI into decision-making processes.
+- **Author:** Marc Carter [@marcadamcarter](https://github.com/marcadamcarter)  
+- **Date Created:** 3/30/2025  
+- **Date Last Updated:** 3/30/2025  
+- **Abstract:** This presentation explores how artificial intelligence can be harnessed to enhance leadership effectiveness. It covers key AI concepts, practical applications in leadership scenarios, and strategies for integrating AI into decision-making processes.  
+- **Target Audience:** Leaders, managers, professionals, and students interested in leveraging AI for leadership success.  
 
 ## Files in This Folder
 
