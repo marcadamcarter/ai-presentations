@@ -2,29 +2,23 @@
 
 **Objective:** Introduce CCAD UPLIFT professionals to practical AI applications that enhance decision-making, efficiency, and team management in their leadership roles.
 
----
-
 ## 1. Introduction
 - **Purpose:** Explore how AI can be your leadership ally.
 - **Question to Consider:** *What if you had a tool that could save time, sharpen your decisions, and boost your team’s performance?*
-
----
 
 ## 2. What is AI? A Quick Primer
 - **Definition:** AI is a tool that mimics human thinking to solve problems, analyze data, and automate tasks.
 - **Examples:**
   - GPS navigation
   - Predictive text
-  - Predictive maintenance for equipment (e.g., helicopters at CCAD)
 
----
+## 3. Why AI Matters for Army Depot Leaders  
 
-## 3. Why AI Matters for Army Depot Leaders
-- **Key Benefits:**
-  - **Efficiency:** Automates repetitive tasks (e.g., scheduling, resource allocation).
-  - **Decision-Making:** Analyzes data for better insights (e.g., workforce trends, supply chain optimization).
-  - **Team Empowerment:** Enhances training and communication (e.g., personalized learning plans).
-- **Depot-Specific Example:** Using AI to predict parts shortages before they delay repairs.
+AI offers significant benefits for Army Depot leaders by enhancing efficiency, decision-making, and team management.
+  - **Efficiency:** Automates repetitive tasks, freeing time for strategy.
+  - **Decision-Making:** Provides data insights for better planning.
+  - **Team Empowerment:** Supports staff development, e.g., appraisals.
+  - **Takeaway:** AI amplifies leadership by saving time and enhancing focus.
 
 ---
 
@@ -32,58 +26,47 @@
 - **Resource Management:**
   - AI tools to track inventory, predict maintenance needs, and reduce downtime.
   - *Leadership Angle:* Focus on strategy while AI handles data crunching.
-- **Workforce Development:**
-  - AI-driven training platforms that adapt to individual skill gaps.
-  - *Leadership Angle:* Build a stronger team by tailoring development to their needs.
+- **Workforce Development and Appraisal Support:**
+  - AI tools adapt training to individual needs and assist in crafting impactful appraisal inputs, empowering staff to showcase their achievements effectively.
+  - *Leadership Angle:* AI personalizes training and streamlines the appraisal process, helping staff develop skills and communicate their contributions clearly.
 - **Crisis Response:**
   - AI simulations for emergency planning or real-time decision support.
   - *Leadership Angle:* Stay ahead of challenges with faster, smarter responses.
 - **Question:** *Which of these could help your team most?*  
-  *(Space for notes)*
 
 ---
 
-## 5. Getting Started with AI: Tips for Leaders
-- **Start small:** Experiment with existing tools:
-  - Grok (commercial)
-  - Microsoft Copilot (commercial)
-  - AskSage (Approved for CUI)
-  - CAMOGPT (Approved for CUI)
-- **Collaborate:** Work with IT or data teams to identify AI opportunities.
-- **Mindset:** Focus on the outcomes you want, not the tech details.
-- **Ethics:** Use AI to support, not replace, your team.
-- **Note:** You don’t need to be a tech expert.
+## 5. Advanced Ideas for AI Use
+- **Safety Monitoring:** AI analyzes incident reports to predict risks (e.g., in maintenance bays).
+- **Process Optimization:** AI suggests ways to cut delays in equipment repair cycles.
+- **Workforce Planning:** AI spots trends in shift schedules and training records.
+- **Workload Prioritization:** AI flags which repair jobs to prioritize based on past data.
+- **Question:** *What are the biggest pain-points you face daily?*  
 
 ---
 
 ## 6. Ways to Start Using AI Today
-- Turn bullet points into polished reports.  
+- **Start small:** Experiment with existing tools:
+  - Commercial Generative AI Tools:  
+    - [Microsoft Copilot | copilot.microsoft.com](https://copilot.microsoft.com)
+  - DoD (Approved for CUI) Generative AI Tools:  
+    - [AskSage (U.S. Army) | chat.genai.army.mil](https://chat.genai.army.mil)
+    - [CamoGPT (U.S. Army) | camogpt.army.mil](https://camogpt.army.mil)
 - Summarize long documents.  
-- Draft emails from ideas.  
+- Turn bullet points into polished reports.  
 - Revise emails for clarity and professional tone.  
 - Draft appraisal employee input.  
 - Draft UPLIFT project outlines.  
 
 ---
 
-## 7. Advanced Ideas for AI Use
-- **Safety Monitoring:** AI analyzes incident reports to predict risks (e.g., in maintenance bays).
-- **Process Optimization:** AI suggests ways to cut delays in equipment repair cycles.
-- **Workforce Planning:** AI spots trends in shift schedules and training records.
-- **Workload Prioritization:** AI flags which repair jobs to prioritize based on past data.
-- **Question:** *What are the biggest pain-points you face daily?*  
-  *(Space for notes)*
-
----
-
-## 8. Q&A and Wrap-Up
+## 7. Q&A and Wrap-Up
 - **Think About:** *What’s one way you could see AI helping you?*  
-  *(Space for notes)*
-- **Recap:** AI is a tool to make you a more effective leader—saving time, improving decisions, and strengthening your Depot team.
+- **Recap:** AI is a leadership ally that can save time, improve decisions, and strengthen your team—embrace it to elevate your impact.
 
 ---
 
-## 9. Practical AI Prompt Examples
+## 8. Practical AI Prompt Examples
 A categorized list of common useful AI prompt examples, to help you identify ways to use AI effectively. These prompts cover a range of applications, from content creation to problem-solving, and are designed to showcase practical ways to leverage AI in real-world scenarios.
 
 ### Content Creation
